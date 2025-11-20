@@ -1,0 +1,5 @@
+{
+  "name": "Cord Disc",
+  "description": "A real-time chat application with guest access, themes, and media sharing.",
+  "requestFramePermissions": []
+}
